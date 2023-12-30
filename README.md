@@ -86,6 +86,8 @@ calc.html
 ```
 
 ## OUTPUT:
+![output 1](https://github.com/karthiksec/standard-calculator/assets/147473368/8d61a7a0-c467-4b18-bb63-21d3f7c66746)
+![output 2](https://github.com/karthiksec/standard-calculator/assets/147473368/bb4f7ac9-1f60-4d69-9d67-ecc0d46f8d34)
 
 
 ## Result:
